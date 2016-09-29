@@ -1,0 +1,3 @@
+language: python
+jdk:
+    - oraclejdk8
